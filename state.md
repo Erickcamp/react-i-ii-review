@@ -3,10 +3,13 @@
 Answer these on your own, then compare answers as a group
 
 1.  What is state?
+where data is stored on an individual component
 
 2.  Where do you set initial state?
+in the constructor function
 
 3.  What method do you use to update state?
+this.setState
 
 ### Understand
 
@@ -40,6 +43,7 @@ class LeadMentor extends Component {
   }
 }
 ```
+its a button counter, so every time you press the button it is increased by 1.
 
 ### Apply
 
